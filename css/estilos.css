@@ -1,0 +1,66 @@
+.contactos{
+	border:6px solid #2F4F4F;
+	width: 45%;
+	float: left;
+	border-radius: 20px;
+	background:#708090
+	margin: 20px;
+
+
+}
+.servicios{
+	border: 6px solid #7C86FF;
+	width: 25%;
+	border-radius: 20x;
+	background: #99A1AF;
+	margin: 20xp;
+	height: 500px;
+
+}
+
+header {
+	background-color: #46ECD5;
+	border-bottom: 10xp solid #8CF5B8;
+	padding: 10xp 20xp;
+}
+
+·header-container{
+	display: flex;
+	justify-content: space-between;
+	align-items: conter;
+	max-width: 1100xp;
+	margin: 0auto;
+}
+
+·logo{
+	font-size: 18xp;
+	font-weight: bold;
+	color: #E7E7E7;
+}
+
+nav ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	gap: 20xp;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: FFFFFFF;
+    font-weight: 600;
+    padding: 8xp 15xp;
+    border-radius: 4xp ;
+    transition: background-color 0.3s, color 1s;
+
+
+}
+nav ul li: hover{
+	background-color: #0585ED;
+	color: #2773F5;
+	
+}
+
+
+
